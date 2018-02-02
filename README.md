@@ -11,3 +11,10 @@ This is the powerful AjaxSubmitButton widget that renders an ajax button which i
 https://github.com/johnitvn/yii2-ajaxcrud
 
 Gii CRUD template for Single Page Ajax Administration for yii2
+
+-----------------------------
+
+### Yii2 migration generator
+https://github.com/bizley/yii2-migration
+
+Generates migration file based on the existing database table and previous migrations.
