@@ -21,7 +21,7 @@ Generates migration file based on the existing database table and previous migra
 
 -----------------------------
 
-### Yii2 forum module
+### Podium - Yii2 forum module
 https://github.com/bizley/yii2-podium 
 
 This extension allows you to add forum to your app. Demo: http://bizley.pl/podium/home
