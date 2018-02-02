@@ -18,3 +18,10 @@ Gii CRUD template for Single Page Ajax Administration for yii2
 https://github.com/bizley/yii2-migration
 
 Generates migration file based on the existing database table and previous migrations.
+
+-----------------------------
+
+### Yii2 forum module
+https://github.com/bizley/yii2-podium 
+
+This extension allows you to add forum to your app. Demo: http://bizley.pl/podium/home
