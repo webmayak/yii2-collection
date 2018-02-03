@@ -25,3 +25,10 @@ Generates migration file based on the existing database table and previous migra
 https://github.com/bizley/yii2-podium 
 
 This extension allows you to add forum to your app. Demo: http://bizley.pl/podium/home
+
+-----------------------------
+
+### Yii2 Material Design Icons
+https://github.com/mervick/yii2-material-design-icons
+
+Yii2 Material Design Icons Asset Bundle
