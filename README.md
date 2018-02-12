@@ -32,3 +32,10 @@ This extension allows you to add forum to your app. Demo: http://bizley.pl/podiu
 https://github.com/mervick/yii2-material-design-icons
 
 Yii2 Material Design Icons Asset Bundle
+
+-----------------------------
+
+### Yii2 notifications
+https://github.com/webzop/yii2-notifications
+
+Yii2 module to provide a notification managing system
