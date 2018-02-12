@@ -39,3 +39,10 @@ Yii2 Material Design Icons Asset Bundle
 https://github.com/webzop/yii2-notifications
 
 Yii2 module to provide a notification managing system
+
+-----------------------------
+
+### Yii2 Rules
+https://github.com/pantera-digital/yii2-rules
+
+Rules module for Yii Framework 2.x gives ability to create and manage reactions for events
