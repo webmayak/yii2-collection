@@ -46,3 +46,10 @@ Yii2 module to provide a notification managing system
 https://github.com/pantera-digital/yii2-rules
 
 Rules module for Yii Framework 2.x gives ability to create and manage reactions for events
+
+-----------------------------
+
+### Yii2 Bootstrap4
+https://github.com/digitv/yii2bootstrap4
+
+Bootstrap v4 widgets for Yii2
