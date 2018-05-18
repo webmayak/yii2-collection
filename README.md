@@ -53,3 +53,10 @@ Rules module for Yii Framework 2.x gives ability to create and manage reactions 
 https://github.com/digitv/yii2bootstrap4
 
 Bootstrap v4 widgets for Yii2
+
+-----------------------------
+
+### Yii2 CSV importer
+https://github.com/ruskid/yii2-csv-importer
+
+Yii2 CSV Importer to Database
